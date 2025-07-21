@@ -23,7 +23,8 @@ This is my mini project that uses hand gestures detected through OpenCV to contr
 # 🚀 How to Run
 
 1. Install required Python libraries:
-    ```bash
- pip install opencv-python pyfirmata cvzone
+    ```bash pip install opencv-python pyfirmata cvzone
+    
 2. Upload Arduino code to board
+   
 3. Run the python script
